@@ -19,7 +19,7 @@ A continuación, se aprecian las vistas con las que cuenta la prueba desarrollad
 
 ![Pagina Principal](https://github.com/YeimerSN/PruebaDesarrolladorJr/blob/main/img/PaginaInicio.png)
 
-## Productos
+## Predio
 
 * Crear predio
 
